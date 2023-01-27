@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrathamMevada23
-- 👀 I’m interested in ...
+- 👀 I’m interested in flutter
 - 🌱 I’m currently learning flutter development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pratham23102003@gmail.com
