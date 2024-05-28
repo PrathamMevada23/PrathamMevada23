@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/@pratham02102196" target="blank"><img src="https://img.shields.io/twitter/follow/@pratham02102196?logo=twitter&style=for-the-badge" alt="@pratham02102196" /></a> </p>
 
-- 🌱 I’m currently learning **Web Developing**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **pmevada2310@gmail.com**
 
